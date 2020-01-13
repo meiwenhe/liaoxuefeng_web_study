@@ -4,3 +4,5 @@ Git is free software.
 create a new branch
 dev test merge 
 master test merge
+
+fix bug 101 
