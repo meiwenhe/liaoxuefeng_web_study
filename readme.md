@@ -6,3 +6,4 @@ dev test merge
 master test merge
 
 fix bug 101 
+fix bug 102
